@@ -1,4 +1,3 @@
-
 #----------------------------- Global Properties ----------------------------#
 
 /outputDir:bin/$(Platform)
@@ -10,61 +9,103 @@
 
 #-------------------------------- References --------------------------------#
 
-
 #---------------------------------- Content ---------------------------------#
 
-#begin Juego_Moto_Img/arbustos.jpg
+#begin Juego_Moto_Img/mapa.png
 /importer:TextureImporter
 /processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
+/processorParam:ColorKeyEnabled=False
 /processorParam:GenerateMipmaps=False
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/processorParam:Version=3.8.5.1
-/build:Juego_Moto_Img/arbustos.jpg
+/build:Juego_Moto_Img/mapa.png
 
-#begin Juego_Moto_Img/atlas-definition.xml
-/copy:Juego_Moto_Img/atlas-definition.xml
-
-#begin Juego_Moto_Img/moto.jpg
+#begin Juego_Moto_Img/moto_azul.png
 /importer:TextureImporter
 /processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
+/processorParam:ColorKeyEnabled=False
 /processorParam:GenerateMipmaps=False
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/processorParam:Version=3.8.5.1
-/build:Juego_Moto_Img/moto.jpg
+/build:Juego_Moto_Img/moto_azul.png
 
-#begin Juego_Moto_Img/pinchosPista.png
+#begin Juego_Moto_Img/moto_rojo.png
 /importer:TextureImporter
 /processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
+/processorParam:ColorKeyEnabled=False
 /processorParam:GenerateMipmaps=False
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/processorParam:Version=3.8.5.1
-/build:Juego_Moto_Img/pinchosPista.png
+/build:Juego_Moto_Img/moto_rojo.png
 
-#begin Juego_Moto_Img/suelo.png
+#begin Juego_Moto_Img/menu.png
 /importer:TextureImporter
 /processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
+/processorParam:ColorKeyEnabled=False
 /processorParam:GenerateMipmaps=False
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/processorParam:Version=3.8.5.1
-/build:Juego_Moto_Img/suelo.png
+/build:Juego_Moto_Img/menu.png
 
+#begin Juego_Moto_Img/moto_azul_salto.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyEnabled=False
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Juego_Moto_Img/moto_azul_salto.png
+
+#begin Juego_Moto_Img/moto_rojo_salto.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyEnabled=False
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Juego_Moto_Img/moto_rojo_salto.png
+
+#begin Juego_Moto_Img/moto_azul_muerte.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyEnabled=False
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Juego_Moto_Img/moto_azul_muerte.png
+
+#begin Juego_Moto_Img/moto_rojo_muerte.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyEnabled=False
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Juego_Moto_Img/moto_rojo_muerte.png
+
+#begin Juego_Moto_Img/trampas.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyEnabled=False
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Juego_Moto_Img/trampas.png

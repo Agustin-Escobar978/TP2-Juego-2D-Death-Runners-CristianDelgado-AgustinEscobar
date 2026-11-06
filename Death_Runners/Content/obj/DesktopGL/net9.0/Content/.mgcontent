@@ -4,12 +4,22 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>c:/Users/agust/Documents/monogame/Death_Runners/Death_Runners/Content/Juego_Moto_Img/arbustos.jpg</File>
-    <File>c:/Users/agust/Documents/monogame/Death_Runners/Death_Runners/Content/Juego_Moto_Img/moto.jpg</File>
-    <File>c:/Users/agust/Documents/monogame/Death_Runners/Death_Runners/Content/Juego_Moto_Img/pinchosPista.png</File>
-    <File>c:/Users/agust/Documents/monogame/Death_Runners/Death_Runners/Content/Juego_Moto_Img/suelo.png</File>
+    <File>C:/Users/cristiand035/Downloads/Death_Runners-main/Death_Runners-main/Death_Runners/Content/Juego_Moto_Img/mapa.png</File>
+    <File>C:/Users/cristiand035/Downloads/Death_Runners-main/Death_Runners-main/Death_Runners/Content/Juego_Moto_Img/moto_azul.png</File>
+    <File>C:/Users/cristiand035/Downloads/Death_Runners-main/Death_Runners-main/Death_Runners/Content/Juego_Moto_Img/moto_rojo.png</File>
+    <File>C:/Users/cristiand035/Downloads/Death_Runners-main/Death_Runners-main/Death_Runners/Content/Juego_Moto_Img/menu.png</File>
+    <File>C:/Users/cristiand035/Downloads/Death_Runners-main/Death_Runners-main/Death_Runners/Content/Juego_Moto_Img/moto_azul_salto.png</File>
+    <File>C:/Users/cristiand035/Downloads/Death_Runners-main/Death_Runners-main/Death_Runners/Content/Juego_Moto_Img/moto_rojo_salto.png</File>
+    <File>C:/Users/cristiand035/Downloads/Death_Runners-main/Death_Runners-main/Death_Runners/Content/Juego_Moto_Img/moto_azul_muerte.png</File>
+    <File>C:/Users/cristiand035/Downloads/Death_Runners-main/Death_Runners-main/Death_Runners/Content/Juego_Moto_Img/moto_rojo_muerte.png</File>
+    <File>C:/Users/cristiand035/Downloads/Death_Runners-main/Death_Runners-main/Death_Runners/Content/Juego_Moto_Img/trampas.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

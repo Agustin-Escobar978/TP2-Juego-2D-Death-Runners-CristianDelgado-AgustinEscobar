@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\agust\\Documents\\monogame\\Death_Runners\\MonoGameLibrary\\MonoGameLibrary.csproj": {}
+    "C:\\Users\\agust\\Documents\\Gitbash\\TP2-Juego-2D-Death-Runners-CristianDelgado-AgustinEscobar\\MonoGameLibrary\\MonoGameLibrary.csproj": {}
   },
   "projects": {
-    "c:\\Users\\agust\\Documents\\monogame\\Death_Runners\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+    "C:\\Users\\agust\\Documents\\Gitbash\\TP2-Juego-2D-Death-Runners-CristianDelgado-AgustinEscobar\\MonoGameLibrary\\MonoGameLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\agust\\Documents\\monogame\\Death_Runners\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\agust\\Documents\\Gitbash\\TP2-Juego-2D-Death-Runners-CristianDelgado-AgustinEscobar\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "projectName": "MonoGameLibrary",
-        "projectPath": "c:\\Users\\agust\\Documents\\monogame\\Death_Runners\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectPath": "C:\\Users\\agust\\Documents\\Gitbash\\TP2-Juego-2D-Death-Runners-CristianDelgado-AgustinEscobar\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\agust\\Documents\\monogame\\Death_Runners\\MonoGameLibrary\\obj\\",
+        "outputPath": "C:\\Users\\agust\\Documents\\Gitbash\\TP2-Juego-2D-Death-Runners-CristianDelgado-AgustinEscobar\\MonoGameLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",

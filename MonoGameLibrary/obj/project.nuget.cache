@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JZZm8PIMZzs=",
+  "dgSpecHash": "qJELMji2aF8=",
   "success": true,
-  "projectFilePath": "c:\\Users\\agust\\Documents\\monogame\\Death_Runners\\MonoGameLibrary\\MonoGameLibrary.csproj",
+  "projectFilePath": "C:\\Users\\agust\\Documents\\Gitbash\\TP2-Juego-2D-Death-Runners-CristianDelgado-AgustinEscobar\\MonoGameLibrary\\MonoGameLibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\agust\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.6\\monogame.framework.desktopgl.3.8.6.nupkg.sha512",
+    "C:\\Users\\agust\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.6.1\\monogame.framework.desktopgl.3.8.6.1.nupkg.sha512",
     "C:\\Users\\agust\\.nuget\\packages\\monogame.library.openal\\1.24.3.4\\monogame.library.openal.1.24.3.4.nupkg.sha512",
     "C:\\Users\\agust\\.nuget\\packages\\monogame.library.sdl\\2.32.10.2\\monogame.library.sdl.2.32.10.2.nupkg.sha512",
     "C:\\Users\\agust\\.nuget\\packages\\nvorbis\\0.10.4\\nvorbis.0.10.4.nupkg.sha512",

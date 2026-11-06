@@ -1,2 +1,16 @@
-﻿using var game = new Death_Runners.Game1();
-game.Run();
+﻿using System;
+
+namespace Death_Runners
+{
+    public static class Program
+    {
+        [STAThread]
+        static void Main()
+        {
+            using (var game = new Game1())
+            {
+                game.Run();
+            }
+        }
+    }
+}
